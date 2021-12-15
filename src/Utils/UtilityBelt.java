@@ -10,6 +10,8 @@
  * Created for SE-370 Introduction to Software Engineering Principles, a group project completed in a 16 week interval for California State University
  * San Marcos, Spring Semester 2021
  *
+ * @author Gabriel Siguenza - Computer science internship MCC 2019
+ *
  * Project Owner: Conor Logorsdon
  * Instructor: Dr. Simon Fan
  *****************************************/
